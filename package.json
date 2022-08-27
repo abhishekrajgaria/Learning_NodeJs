@@ -1,0 +1,22 @@
+{
+  "name": "learning_nodejs",
+  "version": "1.0.0",
+  "description": "Learning Node JS",
+  "main": "async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekrajgaria/Learning_NodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekrajgaria/Learning_NodeJs/issues"
+  },
+  "homepage": "https://github.com/abhishekrajgaria/Learning_NodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
